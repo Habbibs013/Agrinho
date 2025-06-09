@@ -13,7 +13,7 @@ const perguntas = [
                 afirmacao: "<b>Organização</b> Sim, a Sesa tem como principal função garantir o acesso ao serviços que visem a promoção, protećão e recuperação da saúde da população em todo o Paraná."
             },
             {
-                texto: "Os defensivos agricolas são usados para proteger as lavouras pois ao se viver em um pais de clima tropical a ocorrencia de pragas é muito maior",
+                texto: "Os defensivos agricolas são usados para proteger as lavouras pois ao se viver em um país de clima tropical a ocorrencia de pragas é muito maior",
                 afirmacao: "Você se destaca por seu <b>conhecimento</b>, o carimbo deverá conter também o número do Registro de Qualificação de Especialista (RQE)"
             }
         ]
