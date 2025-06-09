@@ -10,7 +10,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Tambem conhecidos como venenos sao usados para prejudicar a saúde pois nao sao uteis no Brasil",
-                afirmacao: "<b>Organização</b> Sim, a Sesa tem como principal função garantir o acesso ao serviços que visem a promoção, protećão e recuperação da saúde da população em todo o Paraná."
+                afirmacao: "<b></b> Sim, a Sesa tem como principal função garantir o acesso ao serviços que visem a promoção, protećão e recuperação da saúde da população em todo o Paraná."
             },
             {
                 texto: "Os defensivos agricolas são usados para proteger as lavouras pois ao se viver em um país de clima tropical a ocorrencia de pragas é muito maior",
